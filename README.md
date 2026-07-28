@@ -50,3 +50,8 @@
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcodesio&layout=compact&theme=tokyonight)
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,git,github,vscode,mongodb&theme=dark" />
+</p>
