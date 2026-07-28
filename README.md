@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Sahil Chaudhari
 
-<!--
-**sahilcodesio/sahilcodesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 Second-Year Computer Engineering Student at PCCOER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Java, Data Structures & Algorithms, and Full Stack Development
+
+🌱 Currently learning:
+- Java DSA
+- MongoDB
+- Node.js & Express
+- Full Stack Web Development
+
+## 🛠️ Tech Stack
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Streamlit
+- MongoDB
+
+## 🚀 Projects
+
+- 📄 Resume Analyzer
+- 🎓 Campus Connect *(In Progress)*
+- 💻 Java DSA Repository *(Coming Soon)*
+
+## 🎯 2026 Goals
+
+- ✅ Solve 300+ DSA Problems
+- ✅ Build 5+ Resume-worthy Projects
+- ✅ Participate in Hackathons
+- ✅ Contribute to Open Source
+
+## 📫 Contact
+
+📧 sahil.chaudhari_comp25@pccoer.in
+
+⭐ Thanks for visiting my profile!
