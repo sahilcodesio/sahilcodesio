@@ -41,3 +41,6 @@
 📧 sahil.chaudhari_comp25@pccoer.in
 
 ⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilcodesio&show_icons=true&theme=tokyonight)
